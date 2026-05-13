@@ -1,7 +1,7 @@
 # Modern-Text-Tool-Dashboard
 
-![Python](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=python&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-Advanced-blue?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge&logo=python&logoColor=white)
 
 # 📝 Text Tool Pro v3.0 — Ultimate Edition
 
