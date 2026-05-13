@@ -1,9 +1,12 @@
 # Modern-Text-Tool-Dashboard
 
+![Python](https://shields.io)
+![Tkinter](https://shields.io)
+
 # 📝 Text Tool Pro v3.0 — Ultimate Edition
 
-> A powerful, all-in-one desktop text processing dashboard built with Python and Tkinter.  
-> Speak, listen, translate, analyze, summarize, and export — all in one beautiful offline-first app.
+A powerful, all-in-one desktop text processing dashboard built with Python and Tkinter.  
+Speak, listen, translate, analyze, summarize, and export — all in one beautiful offline-first app.
 
 ---
 
